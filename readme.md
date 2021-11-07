@@ -1,12 +1,6 @@
 
 # hai
-
-
-
-
 # haih
-
-
 # hello
 
 
