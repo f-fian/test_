@@ -1,9 +1,3 @@
-# hello
-
-# hi
-
-# alfian alamsyah
-
-# ?
+# pepek ini apaan dah
 
 
