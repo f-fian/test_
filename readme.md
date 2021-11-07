@@ -2,8 +2,6 @@
 # Ibam
 
 
-# jhosua
-
 
 
 # alfian
