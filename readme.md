@@ -1,11 +1,5 @@
 
-# hello
 
 
 # hi
-=======
-
-
-# hi
-# alfian
 
